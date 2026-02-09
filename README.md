@@ -1,6 +1,10 @@
 # 🌍 GeoFlow: Geospatial Data Engineering Pipeline
 ### GeoFlow is an end-to-end ETL (Extract, Transform, Load) pipeline designed for large-scale urban data processing and spatial modeling. It demonstrates the transition from raw OpenStreetMap (OSM) data to a structured, classified, and indexed spatial database ready for high-volume production environments.
 
+
+<img width="1742" height="532" alt="geoflow drawio" src="https://github.com/user-attachments/assets/5579237e-65fe-4b7b-92bf-e6c42290574f" />
+
+
 ### Technical Stack
 Language: Python 3.14
 Database: PostgreSQL 15 + PostGIS (Containerized via Docker)
