@@ -1,0 +1,10 @@
+pandas
+geopandas
+sqlalchemy>=2.0.0
+geoalchemy2
+psycopg2-binary
+osmnx
+matplotlib
+contextily
+fastapi
+uvicorn
